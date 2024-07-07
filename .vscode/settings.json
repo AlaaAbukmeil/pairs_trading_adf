@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "source_location": "cpp",
+        "string": "cpp",
+        "filesystem": "cpp",
+        "format": "cpp",
+        "valarray": "cpp",
+        "map": "cpp"
+    }
+}
